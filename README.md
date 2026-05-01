@@ -1,7 +1,7 @@
 # StatEdu - Plateforme de Collecte et d'Analyse 
 
 ## 📋 Présentation du Projet
-**StatEdu ** est une application web développée dans le cadre de l'EC2 du cours **INF 232 (Analyse de données)** à l'UY1. L'objectif est de collecter des données précises sur les habitudes de vie et les performances académiques des étudiants pour alimenter nos futurs modèles de régression et de classification.
+**StatEdu** est une application web développée dans le cadre de l'EC2 du cours **INF 232 (Analyse de données)** à l'UY1. L'objectif est de collecter des données précises sur les habitudes de vie et les performances académiques des étudiants pour alimenter nos futurs modèles de régression et de classification.
 
 ## 🚀 Fonctionnalités
 *   **Collecte Intelligente :** Formulaire optimisé pour recueillir des variables clés (heures d'étude, réseaux sociaux, stress, moyenne).
