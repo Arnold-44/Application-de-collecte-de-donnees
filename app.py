@@ -28,7 +28,7 @@ st.set_page_config(page_title = "StatEdu", layout="wide")
 init_db()
 
 st.title("Collecte Et Analyse Descriptive")
-st.markedown("Bienvenue dans l'application de collecte pour le cours d'analyse de donnees.")
+st.markdown("Bienvenue dans l'application de collecte pour le cours d'analyse de donnees.")
 
 
 #Formulaire de collecte
